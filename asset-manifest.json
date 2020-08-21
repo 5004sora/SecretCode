@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/app/static/css/main.4fee0fca.chunk.css",
+    "main.js": "/app/static/js/main.fb9d4cdf.chunk.js",
+    "main.js.map": "/app/static/js/main.fb9d4cdf.chunk.js.map",
+    "runtime-main.js": "/app/static/js/runtime-main.af6f1b9e.js",
+    "runtime-main.js.map": "/app/static/js/runtime-main.af6f1b9e.js.map",
+    "static/js/2.649d60d1.chunk.js": "/app/static/js/2.649d60d1.chunk.js",
+    "static/js/2.649d60d1.chunk.js.map": "/app/static/js/2.649d60d1.chunk.js.map",
+    "index.html": "/app/index.html",
+    "precache-manifest.eca11801f01a52c18993293df3588d2c.js": "/app/precache-manifest.eca11801f01a52c18993293df3588d2c.js",
+    "service-worker.js": "/app/service-worker.js",
+    "static/css/main.4fee0fca.chunk.css.map": "/app/static/css/main.4fee0fca.chunk.css.map",
+    "static/js/2.649d60d1.chunk.js.LICENSE.txt": "/app/static/js/2.649d60d1.chunk.js.LICENSE.txt",
+    "static/media/ProgSocLogo.png": "/app/static/media/ProgSocLogo.f0f3a878.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.af6f1b9e.js",
+    "static/js/2.649d60d1.chunk.js",
+    "static/css/main.4fee0fca.chunk.css",
+    "static/js/main.fb9d4cdf.chunk.js"
+  ]
+}
